@@ -8,13 +8,15 @@ public class OperadoresBoolean {
 
         System.out.println(resultado);
 
-      /*   É o mesmo que: String resultado = "";
+      /*   É o mesmo que:
+
+        String resultado = "";
 
         if (a == b)
         resultado = "verdadeiro"
         else
-        resultado = "falso" [
-        System.out.println(resultado) */
+        resultado = "falso"; 
+        System.out.println(resultado); */
 
 
     }
