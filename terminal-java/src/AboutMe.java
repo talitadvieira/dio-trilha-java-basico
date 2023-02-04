@@ -1,4 +1,5 @@
 public class AboutMe {
+
     public static void main(String[] args) {
         
         String nome = args [0];
@@ -9,7 +10,6 @@ public class AboutMe {
         System.out.println("Olá, me chamo " + nome + " " + sobrenome);
         System.out.println("Tenho " + idade + " anos ");
         System.out.println("Minha altura é " + altura + " cm ");
-
 
     }
 }
